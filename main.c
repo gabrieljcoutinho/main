@@ -137,6 +137,6 @@ void verificarSubstring() {
 }
 
 /*
-    Essa atividade feita através do teams foi um experiencia melhor do que usar o classroom, a atividade em si tmabem, foi bem mais legal do que ficar analisando codigos de outras pessoa e fazer
+    Essa atividade feita através do teams foi uam experiencia melhor do que usar o classroom, a atividade em si tmabem, foi bem mais legal do que ficar analisando codigos de outras pessoa e fazer
     feedbacks
 */
