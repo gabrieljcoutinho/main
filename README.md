@@ -1,5 +1,5 @@
 # Trabalho de escola
-#Trabalho de escola
+- Trabalho de escola da matéria C
 
  integrantes: 
  Gabriel    (https://github.com/gabrieljcoutinho)
