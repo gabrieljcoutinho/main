@@ -71,7 +71,7 @@ void sequenciaFibonacci() {
     printf("\n");
 }
 
-// Opção 2: Fatoriais
+// Opção 2: Fatoriais 
 void fatoriais() {
     int n;
     unsigned long long fatoriais[20];
